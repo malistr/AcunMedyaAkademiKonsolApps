@@ -247,7 +247,6 @@ namespace Loops
 
             */
 
-
             /*
             //Console.Write("Kaç yaş gireceksiiz:");
 
@@ -373,6 +372,13 @@ namespace Loops
             Console.WriteLine($"Sonuç: {sonuc}");
 
             */
+
+
+
+
+            // bir şeyler ekledim
+            Console.WriteLine("dbjbsjdf");
+            kjfdbasdhsabdashd
         }
 
     }
